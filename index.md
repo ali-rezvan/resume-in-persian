@@ -1,9 +1,9 @@
 <p></p>
-<table border="0" style="border-collapse: collapse; width: 100%;">
+<table border="0" style=" border-color: white;border-collapse: collapse; width: 100%;">
 <tbody>
 <tr>
 <td style="width: 50%;">
-<table border="0" style="border-collapse: collapse; width: 100%;">
+<table border="0" style="width: 100%; border-collapse: collapse; border-color: white;">
 <tbody>
 <tr>
 <td style="width: 100%; text-align: center;">سال تولد : 1355</td>
