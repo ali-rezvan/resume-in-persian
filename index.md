@@ -1,8 +1,8 @@
-<table border="1" style="width: 100%; border-collapse: collapse;">
+<table border="2" style="width: 100%; border-collapse: collapse;">
 <tbody>
 <tr>
 <td style="width: 50%;">
-<table border="1" style="border-collapse: collapse; width: 100%;">
+<table border="2" style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr style="height: 20px;">
 <td style="width: 100%; height: 20px; text-align: center;">سال تولد : 1355</td>
