@@ -1,21 +1,26 @@
-<p></p>
-<table border="0" style="width: 100%; border-collapse: collapse; border-color: black; border-style: groove;">
+<table border="0" style="width: 100%; border-collapse: collapse;">
 <tbody>
 <tr>
 <td style="width: 50%;">
-<table border="1" style="width: 100%; border-collapse: collapse; border-color: black; border-style: groove;">
+<table border="1" style="border-collapse: collapse; width: 100%;">
 <tbody>
-<tr>
-<td style="width: 100%; text-align: center;">سال تولد : 1355</td>
+<tr style="height: 20px;">
+<td style="width: 100%; height: 20px; text-align: center;">سال تولد : 1355</td>
 </tr>
-<tr>
-<td style="width: 100%; text-align: center;">وضعیت سربازی : کارت پایان خدمت</td>
+<tr style="height: 20px;">
+<td style="width: 100%; height: 20px; text-align: center;">وضعیت سربازی : کارت پایان خدمت</td>
 </tr>
-<tr>
-<td style="width: 100%; text-align: center;">وضعیت تاهل : متاهل</td>
+<tr style="height: 20px;">
+<td style="width: 100%; height: 20px; text-align: center;">وضعیت تاهل : متاهل</td>
 </tr>
-<tr>
-<td style="width: 100%; text-align: center;">تعداد فرزند : 1</td>
+<tr style="height: 20px;">
+<td style="width: 100%; height: 20px; text-align: center;">تعداد فرزند : 1</td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 100%; height: 20px; text-align: center;">شماره تماس : 09177028921</td>
+</tr>
+<tr style="height: 20px;">
+<td style="width: 100%; height: 20px; text-align: center;">ali.rezvan@gmail.com : پست الکترونیک</td>
 </tr>
 </tbody>
 </table>
@@ -24,11 +29,7 @@
 </tr>
 </tbody>
 </table>
-<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">متولد 1355&nbsp;</div>
-<div style="background-color: #ffff; color: #fff; max-height: 2px; padding: 0px; text-align: right;">&nbsp;</div>
-<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">شماره تماس : 09177028921</div>
-<div style="background-color: #ffff; color: #fff; max-height: 2px; padding: 0px; text-align: right;">&nbsp;</div>
-<div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">ali.rezvan@gmail.com : پست الکترونیک</div>
+
 <div style="background-color: #ffff; color: #fff; max-height: 20px; padding: 0px; text-align: right;">&nbsp;</div>
 <div style="background-color: #000; color: #fff; min-height: 10px; padding: 1px; text-align: right;">درباره من -</div>
 <div style="background-color: #ffff; color: #fff; max-height: 2px; padding: 0px; text-align: right;">&nbsp;</div>
