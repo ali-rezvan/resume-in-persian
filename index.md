@@ -20,7 +20,7 @@
 </tbody>
 </table>
 </td>
-<td style="width: 50%; text-align: center;"><img src="https://raw.githubusercontent.com/ali-rezvan/resume-in-english/gh-pages/0.jpg" alt="" width="200" height="200" /></td>
+<td style="width: 50%; text-align: center;"><img src="https://raw.githubusercontent.com/ali-rezvan/resume-in-english/gh-pages/0.jpg" alt="" width="100" height="100" /></td>
 </tr>
 </tbody>
 </table>
