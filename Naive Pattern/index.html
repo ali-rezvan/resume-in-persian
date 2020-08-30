@@ -1,1 +1,96 @@
+<html>
+<head>
+<style>
+body {
+  background-image: linear-gradient(#3399ff, #e6f2ff);
+}
+</style>
+</head>
+<body>
+	<br>
+<H4 style="text-align: center;">Naive Pattern Searching algorithm simulation in javascript</H4>
+	
+	
+<table border="0" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 100%; text-align: center;"><img src="https://raw.githubusercontent.com/ali-rezvan/Naive-Pattern-Searching/gh-pages/Optimized-Naive-Pattern-Searching.jpg" alt="" width="500" height="281" /></td>
+</tr>
+</tbody>
+</table>
+	<br>
+	
+<table border="0" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 33.333%;"></td>
+<td style="width: 33.333%;">
+	
+	
+	
+	
+	<p style="text-align: center;">Enter a string and click OK:</p>
+        Text&nbsp;&nbsp;&nbsp;&nbsp;  <input id="id1" size="50" >
+        <br><br>
+        
+        Pattern  <input id="id2" size="50" >
+       <p style="text-align: center;"><button onclick="naiveSearch()">OK</button></p>
+
+<script>
+
+naiveSearch(txt,pat); //1
+function naiveSearch(txt,pat){
+   
+    //var pat ="lo";
+    //var txt="Hello world";
+    var txt=document.getElementById("id1").value;
+    var pat=document.getElementById("id2").value;                         
+    document.write("<div style=' background-color: #3399ff;'>");
+   
+    
+    document.write("<div style=' color: black; min-height: 10px; padding: 1px; text-align: center;'>");
+    document.write(txt);
+    document.write("<br>");
+    
+    
+    //document.write(txt);
+    //document.write(pat);
+    var M = pat.length; 
+	var N = txt.length; 
+    for(var i = 0; i <= N-M; i++){
+        var j;
+    
+        for(j = 0; j < M; j++){
+          if(txt[i+j] != pat[j])
+            break;
+            if(j == M );
+            document.write("<div style=' color: #fff; min-height: 10px; padding: 1px; text-align: center;'>");
+           
+            
+            document.writeln("Pattern found at index");
+            document.write(i);
+            document.write("<br>");
+
+        }
+    }
+    
+}
+
+
+
+</script>
+	
+	
+	
+	
+	
+	</td>
+<td style="width: 33.333%;"></td>
+</tr>
+</tbody>
+</table>
+	
+
+	
+</body>
 
