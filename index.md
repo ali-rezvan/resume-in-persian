@@ -1,3 +1,15 @@
+<p></p>
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 20%; text-align: center;">الگوریتم</td>
+<td style="width: 20%; text-align: center;">کوئرا</td>
+<td style="width: 20%; text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+
+
 <table border="2" style="width: 100%; border-collapse: collapse;">
 <tbody>
 <tr>
