@@ -3,10 +3,10 @@
 <tbody>
 <tr>
 <td style="width: 33%; text-align: center;">
-<h4>الگوریتم</h4>
+<h4><strong>الگوریتم</strong></h4>
 </td>
 <td style="width: 33%; text-align: center;">
-<h4>کوئرا</h4>
+<h4><a href="https://quera.ir/profile/ali.rezvan"><strong>کوئرا</strong></a></h4>
 </td>
 <td style="width: 33%; text-align: center;"><img src="https://raw.githubusercontent.com/ali-rezvan/resume-in-persian/gh-pages/pic/uk.png" alt="" width="40" height="40" /></td>
 </tr>
