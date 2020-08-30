@@ -75,3 +75,4 @@
 <div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">دوره بازاریابی از مدیریت صنعتی</div>
 <div style="background-color: #ffff; color: #fff; max-height: 2px; padding: 0px; text-align: right;">&nbsp;</div>
 <div style="background-color: grey; color: #fff; min-height: 10px; padding: 1px; text-align: right;">دوره استقرار سیستم مدیریت کیفیت ایزو 9001:2008 از مدیریت صنعتی</div>
+<h3 style="text-align: center;"><a href="https://github.com/ali-rezvan/resume-in-persian/blob/gh-pages/files/ali%20rezvan.pdf">ارزیابی رزومه </a></h3>
