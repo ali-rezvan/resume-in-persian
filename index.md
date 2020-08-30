@@ -2,9 +2,9 @@
 <table border="1" style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr>
-<td style="width: 20%; text-align: center;">الگوریتم</td>
-<td style="width: 20%; text-align: center;">کوئرا</td>
-<td style="width: 20%; text-align: center;"></td>
+<td style="width: 33%; text-align: center;">الگوریتم</td>
+<td style="width: 33%; text-align: center;">کوئرا</td>
+<td style="width: 33%; text-align: center;"><img src="https://raw.githubusercontent.com/ali-rezvan/resume-in-persian/gh-pages/pic/uk.png" alt="" width="21" height="20" /></td>
 </tr>
 </tbody>
 </table>
