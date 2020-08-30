@@ -3,7 +3,7 @@
 <tbody>
 <tr>
 <td style="width: 33%; text-align: center;">
-<h4><a href="https://ali-rezvan.github.io/Naive-Pattern-Searching/"><strong>الگوریتم</strong></a></h4>
+<h4><a href="https://ali-rezvan.github.io/Naive-Pattern-Searching/"><strong>شبیه سازی الگوریتم</strong></a></h4>
 </td>
 <td style="width: 33%; text-align: center;">
 <h4><a href="https://quera.ir/profile/ali.rezvan"><strong>کوئرا</strong></a></h4>
