@@ -2,9 +2,13 @@
 <table border="1" style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr>
-<td style="width: 33%; text-align: center;">الگوریتم</td>
-<td style="width: 33%; text-align: center;">کوئرا</td>
-<td style="width: 33%; text-align: center;"><img src="https://raw.githubusercontent.com/ali-rezvan/resume-in-persian/gh-pages/pic/uk.png" alt="" width="21" height="20" /></td>
+<td style="width: 33%; text-align: center;">
+<h4>الگوریتم</h4>
+</td>
+<td style="width: 33%; text-align: center;">
+<h4>کوئرا</h4>
+</td>
+<td style="width: 33%; text-align: center;"><img src="https://raw.githubusercontent.com/ali-rezvan/resume-in-persian/gh-pages/pic/uk.png" alt="" width="40" height="40" /></td>
 </tr>
 </tbody>
 </table>
