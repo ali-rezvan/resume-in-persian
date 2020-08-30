@@ -8,12 +8,10 @@
 <td style="width: 33%; text-align: center;">
 <h4><a href="https://quera.ir/profile/ali.rezvan"><strong>کوئرا</strong></a></h4>
 </td>
-<td style="width: 33%; text-align: center;"><img src="https://raw.githubusercontent.com/ali-rezvan/resume-in-persian/gh-pages/pic/uk.png" alt="" width="40" height="40" /></td>
+<td style="width: 33%; text-align: center;"><a href="https://ali-rezvan.github.io/resume-in-english/"><img src="https://raw.githubusercontent.com/ali-rezvan/resume-in-persian/gh-pages/pic/uk.png" alt="" width="40" height="40" /></a></td>
 </tr>
 </tbody>
 </table>
-
-
 <table border="2" style="width: 100%; border-collapse: collapse;">
 <tbody>
 <tr>
@@ -45,7 +43,6 @@
 </tr>
 </tbody>
 </table>
-
 <div style="background-color: #ffff; color: #fff; max-height: 20px; padding: 0px; text-align: right;">&nbsp;</div>
 <div style="background-color: #000; color: #fff; min-height: 10px; padding: 1px; text-align: right;">درباره من -</div>
 <div style="background-color: #ffff; color: #fff; max-height: 2px; padding: 0px; text-align: right;">&nbsp;</div>
